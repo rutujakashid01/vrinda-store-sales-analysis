@@ -64,7 +64,10 @@ The dashboard workbook also contains the source data in the `Vrinda Store` works
 
 **Note:** GitHub cannot display the Excel dashboard's interactive features directly. Download and open the workbook in Excel to explore it.
 
-📂 Project Structure
+
+## 📂 Project Structure
+
+```text
 vrinda-store-sales-analysis/
 ├── README.md
 ├── excel/
@@ -73,12 +76,14 @@ vrinda-store-sales-analysis/
 │   └── Vrinda_Store_Data.xlsx
 └── images/
     └── dashboard.png
+```
 
 
 ## 🙏 Credits
 
 * **Dataset and project inspiration:** [Rishabh Mishra's Excel Dashboard Tutorial](https://youtu.be/gTK5rNhWJyA)
-* **Project work:** Excel dashboard creation, KPI summaries, formatting, and documentation.
+* **My Contribution**: Independently created the KPI summary, calculated key performance metrics, and worked on dashboard formatting and presentation.
+* **Project Learning**: Built this project to strengthen my practical Excel and data analytics skills.
 
 This project was developed as part of my learning journey in data analytics, using a tutorial as a learning reference.
 
