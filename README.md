@@ -64,8 +64,7 @@ The dashboard workbook also contains the source data in the `Vrinda Store` works
 
 **Note:** GitHub cannot display the Excel dashboard's interactive features directly. Download and open the workbook in Excel to explore it.
 
-## 📂 Project Structure
-
+📂 Project Structure
 vrinda-store-sales-analysis/
 ├── README.md
 ├── excel/
@@ -74,7 +73,7 @@ vrinda-store-sales-analysis/
 │   └── Vrinda_Store_Data.xlsx
 └── images/
     └── dashboard.png
-```
+
 
 ## 🙏 Credits
 
