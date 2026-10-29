@@ -6,8 +6,7 @@ The dashboard uses PivotTables, PivotCharts, slicers, and KPI cards to explore s
 
 ## 📊 Dashboard Preview
 
-[vrinda-store-sales-analysis/images
-/Dashboard]
+![Vrinda Store Sales Dashboard](images/dashboard.png)
 
 ## 🎯 Business Questions
 
